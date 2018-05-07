@@ -7,7 +7,7 @@ Install
 In Ubuntu
 
 	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install.sh
-	sh Install.sh
+	sh install.sh
 
 In OSX
 
