@@ -7,12 +7,12 @@ Install
 In Ubuntu
 
 	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install.sh
-	sh install.sh
+	sudo sh install.sh
 
 In OSX
 
 	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install-mac.sh
-	sh install-mac.sh
+	sudo sh install-mac.sh
 
 Remark
 ------
